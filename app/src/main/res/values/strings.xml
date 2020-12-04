@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Song Guessing Game</string>
+    <string name="title_activity_game">game</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_choosemode">choosemode</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="guess">Guess</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
